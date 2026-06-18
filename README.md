@@ -15,11 +15,9 @@ It also saves/loads data in different file formats.
    ```bash
    javac Main.java Student.java
 
-```
-
 2. **Run** the application:
-```bash
-java Main
+   ```bash
+   java Main
 
 ```
 
@@ -77,6 +75,3 @@ Added!
 
 ```
 
-```
-
-```
