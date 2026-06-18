@@ -19,11 +19,6 @@ It also saves/loads data in different file formats.
    ```bash
    java Main
 
-```
-
-
-
----
 
 ## Menu Options
 
