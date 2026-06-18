@@ -1,7 +1,7 @@
 
 ---
 
-📚 Student Management System
+## Student Management System
 
 A simple Java console app to manage student records.  
 You can **add**, **search**, **update**, **delete**, and **view** students.  
@@ -9,7 +9,7 @@ It also saves/loads data in different file formats.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Compile** both files:
    ```bash
@@ -27,7 +27,7 @@ java Main
 
 ---
 
-## 🧭 Menu Options
+## Menu Options
 
 | Option | Description |
 | --- | --- |
@@ -49,7 +49,7 @@ java Main
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 ```text
 .
@@ -64,7 +64,7 @@ java Main
 
 ---
 
-## 📝 Example
+## Example
 
 ```text
 Options: 1.Add 2.Search 3.Update 4.Delete 5.ShowAll 6.Report ...
