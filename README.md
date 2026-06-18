@@ -1,8 +1,7 @@
 
 ---
 
-```markdown
-# 📚 Student Management System
+📚 Student Management System
 
 A simple Java console app to manage student records.  
 You can **add**, **search**, **update**, **delete**, and **view** students.  
