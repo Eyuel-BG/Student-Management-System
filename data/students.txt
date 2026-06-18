@@ -1,0 +1,5 @@
+101,Kumlachew Assefa,Computer Science,3.75
+102,Mudin Kedir,Information Technology,3.50
+103,Daniel Selemon,Software Engineering,2.90
+104,Hana Beyene,Computer Science,3.85
+105,Yonas Berhe,Information Technology,3.20
